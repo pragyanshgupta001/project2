@@ -2,3 +2,6 @@ let num = Math.floor(Math.random()*5)+1;
 console.log(num);
 
 console.log("merge conflicts - main");
+
+console.log("merge conflicts - feature");
+
